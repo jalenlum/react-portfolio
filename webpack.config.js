@@ -35,6 +35,7 @@ module.exports = {
     new Dotenv({
       path: path.resolve(__dirname, './.env'), // Path to your .env file
       safe: true, // Only loads variables that are defined in .env
+      systemvars: true,
     }),
   ],
 };
