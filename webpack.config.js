@@ -1,4 +1,5 @@
 const path = require('path');
+const Dotenv = require('dotenv-webpack');
 
 module.exports = {
     entry : {
@@ -29,4 +30,11 @@ module.exports = {
         }
       ]
     },
+   plugins: [
+    // Add the Dotenv plugin to load environment variables
+    new Dotenv({
+      path: path.resolve(__dirname, './.env'), // Path to your .env file
+      safe: true, // Only loads variables that are defined in .env
+    }),
+  ],
 };
