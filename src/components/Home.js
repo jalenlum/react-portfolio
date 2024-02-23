@@ -15,7 +15,7 @@ export const Home = () => {
         <div className="col-md-5 col-sm-12 mb-3 align-self-center">
           <img
             className="img-fluid"
-            src="../../assets/headshot.png"
+            src="../../assets/headshot.jpg"
             alt="headshot"
             style={{ borderRadius: 15 }}
           />
