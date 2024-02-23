@@ -30,7 +30,11 @@ module.exports = {
         }
       ]
     },
-    plugins: [
-      new Dotenv()
-    ]
+   plugins: [
+    // Add the Dotenv plugin to load environment variables
+    new Dotenv({
+      path: path.resolve(__dirname, './.env'), // Path to your .env file
+      safe: true, // Only loads variables that are defined in .env
+    }),
+  ],
 };
