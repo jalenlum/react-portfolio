@@ -12,7 +12,7 @@ export const Contact = () => {
       </div>
       <div className="row mt-2 justify-content-center">
         <div className="col-lg-9 col-md-12 col-sm-12 text-center">
-          <form action="https://api.backendform.com/sendform/808jalen@gmail.com" method="post">
+          <form action="https://backendform.com/sendform/808jalen@gmail.com" method="post">
             <input className="contact-text mt-3" placeholder="Your Name" type="text" name="name" />
             <br />
             <input className="contact-text mt-4" placeholder="Your Email" type="email" name="email" />

@@ -28,7 +28,7 @@ export const Lifte = () => {
                   <h6 style={{ color: "#d3d3d3" }}>
                     February 2024
                     <h6>A comprehensive showcase of all my accomplishments on a full-stack website
-                      <h6>Skills: React, JavaScript, Bootstrap 5, Webpack, Github, Netlify</h6>
+                      <h6>Skills: React.js, JavaScript, Bootstrap 5, Webpack, Netlify</h6>
                       <a className="text-white" href="https://lifte.pro/" target="_blank"><i class="fa-solid fa-link"></i> lifte.pro</a>
                     </h6>
                   </h6>

@@ -28,7 +28,7 @@ export const Rose = () => {
                   <h6 style={{ color: "#d3d3d3" }}>
                     September 2023 - Present
                     <h6>GNC Software Subteam Member 
-                      <h6>Skills: React, JavaScript, Bootstrap 5, Node.js, Express.js, Jira, Github</h6>
+                      <h6>Skills: React.js, Bootstrap 5, Node.js, Express.js</h6>
                       <a className="text-white" href="https://manoa.hawaii.edu/uh-vip/project/robotic-space-exploration-rose-vip/" target="_blank"><i class="fa-solid fa-link"></i> link</a>
                     </h6>
                   </h6>

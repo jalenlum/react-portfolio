@@ -30,14 +30,14 @@ export const Projects = () => {
           <LGBTQ />
         </div>
       </div>
-      {/* <div className="row">
+      <div className="row">
         <div className="col-lg-3 col-md-6 col-sm-12 mb-3">
           <Email />
         </div>
-        <div className="col-lg-3 col-md-6 col-sm-12 mb-3">
+        {/* <div className="col-lg-3 col-md-6 col-sm-12 mb-3">
           <Emporium />
-        </div>
-      </div> */}
+        </div> */}
+      </div>
     </div>
   );
 }

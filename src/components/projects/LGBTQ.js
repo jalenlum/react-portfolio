@@ -28,7 +28,7 @@ import { ReactDOM } from "react";
                   <h6 style={{ color: "#d3d3d3" }}>
                     February 2024
                     <h6>A responsive web application for LGBTQ+ Center for the University of Hawai'i at Manoa
-                      <h6>Skills: React, Bootstrap 5, Webpack, Github, Vercel</h6>
+                      <h6>Skills: React.js, Bootstrap 5, Webpack, Vercel</h6>
                       <a className="text-white" href="https://re-lgbtq.vercel.app/lgbtq/" target="_blank"><i class="fa-solid fa-link"></i> production</a>
                     </h6>
                   </h6>
@@ -36,7 +36,7 @@ import { ReactDOM } from "react";
                 <button className="btn-close align-self-start" data-bs-dismiss="modal"></button>
               </div>
               <div className="modal-body">
-                I developed the weightlifting calculator as a web application as part of a personal project, with the primary goal of helping me with my health and fitness.
+                {/* I developed the weightlifting calculator as a web application as part of a personal project, with the primary goal of helping me with my health and fitness.
                 <br />
                 <br />
                 My website is equipped with two different calculators. The Smolov Jr calculator is designed to assist users in implementing the renowned Smolov Jr program, optimizing their training for increased strength. Additionally, the one-rep max calculator, utilizing the Brzycki formula, offers a reliable method to estimate your maximum lifting capacity.
@@ -45,7 +45,7 @@ import { ReactDOM } from "react";
                 This weightlifting calculator is a frontend application that utilizes React.js framework for its hooks and reusable components, enabling it to efficiently manage stateful logic. This application also uses Bootstrap 5 for its intuitive grid system and responsive design features to create a sleep and visually appealing user interface.
                 <br />
                 <br />
-                All of the calculations for my weightlifting website were made using JavaScript, ensuring seamless execution within the browser environment, allowing users to conveniently perform dynamic calculations.
+                All of the calculations for my weightlifting website were made using JavaScript, ensuring seamless execution within the browser environment, allowing users to conveniently perform dynamic calculations. */}
               </div>
             </div>
           </div>
