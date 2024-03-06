@@ -6,6 +6,7 @@ import { Rose } from "./projects/Rose";
 import { LGBTQ } from "./projects/LGBTQ";
 import { Email } from "./projects/Email";
 import { Emporium } from "./projects/Emporium";
+import { Bit } from "./projects/8bit";
 
 export const Projects = () => {
   return (
@@ -34,9 +35,9 @@ export const Projects = () => {
         <div className="col-lg-3 col-md-6 col-sm-12 mb-3">
           <Email />
         </div>
-        {/* <div className="col-lg-3 col-md-6 col-sm-12 mb-3">
-          <Emporium />
-        </div> */}
+        <div className="col-lg-3 col-md-6 col-sm-12 mb-3">
+          <Bit />
+        </div>
       </div>
     </div>
   );

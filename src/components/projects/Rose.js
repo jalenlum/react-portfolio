@@ -4,7 +4,7 @@ import { ReactDOM } from "react";
 export const Rose = () => {
   return (
     <div className="card h-100 text-white" style={{ backgroundColor: "#282828" }}>
-      <img className="card-img-top" src="../../../assets/rose.png" alt="Project"></img>
+      <img className="card-img-top" src="/assets/rose.png" alt="Project"></img>
       <div className="card-body">
         <h4 className="card-title">Team ROSE</h4>
         <div className="card-subtitle mb-4"><h6>September 2023 - Present</h6></div>

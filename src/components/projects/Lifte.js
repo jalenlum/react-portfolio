@@ -4,7 +4,7 @@ import { ReactDOM } from "react";
 export const Lifte = () => {
   return (
     <div className="card h-100 text-white" style={{ backgroundColor: "#282828" }}>
-      <img className="card-img-top" src="../../../assets/placeholder.jpg" alt="Project"></img>
+      <img className="card-img-top" src="/assets/placeholder.jpg" alt="Project"></img>
       <div className="card-body">
         <h4 className="card-title">Lifte</h4>
         <div className="card-subtitle mb-4"><h6>February 2024</h6></div>
@@ -27,7 +27,7 @@ export const Lifte = () => {
                 <h1>Lifte
                   <h6 style={{ color: "#d3d3d3" }}>
                     February 2024
-                    <h6>A comprehensive showcase of all my accomplishments on a full-stack website
+                    <h6>A responsive web application that serves as a weightlifting calculator
                       <h6>Skills: React.js, JavaScript, Bootstrap 5, Webpack, Netlify</h6>
                       <a className="text-white" href="https://lifte.pro/" target="_blank"><i class="fa-solid fa-link"></i> lifte.pro</a>
                     </h6>

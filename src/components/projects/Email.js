@@ -5,7 +5,7 @@ import { ReactDOM } from "react";
 export const Email = () => {
   return (
     <div className="card h-100 text-white" style={{ backgroundColor: "#282828" }}>
-      <img className="card-img-top" src="../../../assets/placeholder.jpg" alt="Project"></img>
+      <img className="card-img-top" src="/assets/placeholder.jpg" alt="Project"></img>
       <div className="card-body">
         <h4 className="card-title">Email List API</h4>
         <div className="card-subtitle mb-4"><h6>February 2024 - Present</h6></div>
